@@ -1,4 +1,8 @@
+/*global $, _ */
+
 (function () {
+	'use strict';
+
 	var fuckner = {
 		lines: [],
 
@@ -21,7 +25,7 @@
 		splitUrls: function() {
 			this.lines = _.map(this.lines, function(line) {
 				return {
-					text: line.replace(/https?:\/\/\S+/g,"").trim(),
+					text: line.replace(/https?:\/\/\S+/g, '').trim(),
 					urls: line.match(/https?:\/\/\S+/g)
 				};
 			});
@@ -30,14 +34,11 @@
 		sortLines: function () {
 			var plainLetters = function (s) {
 				var from = 'áéíóöőúüű',
-					to = 'aeioouuu',
-					l = s.length,
-					retval = '',
-					i;
+					to = 'aeioouuu';
 
 				return _.map(s, function (letter, i) {
 					var t = from.indexOf(s.charAt(i));
-					if (t == -1) {
+					if (t === -1) {
 						return s.charAt(i);
 					} else {
 						return to.charAt(t) + 'x';
@@ -61,10 +62,10 @@
 
 		renderLines: function () {
 			$('#because').html(_.map(this.lines, function (line) {
-				if (line.urls == null || line.urls.length == 0) {
+				if (line.urls === null || line.urls.length === 0) {
 					return $('<span>' + line.text + '</span>');
 				} else {
-					return $('<span><a href="'+line.urls[_.random(line.urls.length-1)]+'">' + line.text + '</a></span>');
+					return $('<span><a href="' + line.urls[_.random(line.urls.length-1)] + '">' + line.text + '</a></span>');
 				}
 			}));
 		}

@@ -28,7 +28,7 @@ földrajzinév-bizottság
 fülkeforradalom
 G. Fodor Gábor
 Gripen-szerződés
-gyilkos őrző-védő
+gyilkos őrző-védő http://nol.hu/belfold/pm__gyilkosokra_bizza_a_fidesz_a_rendfenntarto_feladatokat_
 Gíró-Szász András
 Gödör
 Hadházy Ákos
@@ -41,21 +41,21 @@ hittan
 Hoffmann Rózsa
 Hoppál Péter
 Horthy-nosztalgia
-Horváth András
-három csapás
-hókáosz
+Horváth András http://444.hu/2013/12/30/a-fougyeszseg-szerint-rendben-volt-a-hazkutatas-horvath-andrasnal/
+három csapás http://www.origo.hu/itthon/20120228-bunteto-torvenykonyv-szigoritasa-a-harom-csapas-a-gyakorlatban.html
+hókáosz http://www.stop.hu/belfold/kinos-valosag-csak-magukra-szamithattak-a-hokaoszban-fotokkal/1132138/ http://velemenyvezer.blog.hu/2013/03/20/hokaosz_masodik_felvonas_kuzdelem_a_valosaggal
 Jáksó László
-katasztrófavédelem szétverése
+katasztrófavédelem szétverése http://www.galamuscsoport.hu/tartalom/cikk/198228
 keleti nyitás
 Kereszténydemokrata Néppárt
-Kerényi Imre
-Kishantosi Vidékfejlesztési Központ és Népfőiskola
+Kerényi Imre http://index.hu/video/2013/03/04/kerenyi/
+Kishantosi Vidékfejlesztési Központ és Népfőiskola http://index.hu/belfold/2013/10/20/kishantos/
 Klebelsberg Intézményfenntartó Központ
 Kocsis Máté
 Kubatov Gábor
 Kumin Ferenc
-Kék Pont
-Kósa Lajos
+Kék Pont http://index.hu/belfold/2013/11/05/ombudsmanhoz_fordul_a_tasz_a_tucsere_bezarasa_miatt/
+Kósa Lajos http://www.hir24.hu/belfold/2014/01/06/kifogott-az-anyatej-kosa-lajoson/
 Költségvetési Tanács
 Közgép
 közmunkaprogram
@@ -63,21 +63,21 @@ közterület-átnevezések
 köztévé
 különadók
 labdarúgás
-letelepedési kötvény
-londoni magyarok
-Lázár János
-lézerblokkoló
-Magyar Fesztivál Balett
-Magyar Csapat
+letelepedési kötvény http://nol.hu/gazdasag/20130905-masfel_tucat_kotvenymagyar
+londoni magyarok http://velemenyvezer.blog.hu/2013/01/29/matolcsy_elszolta_magat_felmillioan_dolgoznak_kulfoldon
+Lázár János http://www.origo.hu/itthon/20110319-lazar-janos-szerint-akinek-nincs-semmije-az-annyit-is-er.html http://index.hu/gazdasag/2013/04/24/santa/ http://444.hu/2014/01/06/lazar-janos-vegul-szakitott-ezzel-a-plebejus-vonallal/
+lézerblokkoló http://www.origo.hu/itthon/20110214-lazar-janos-tudott-a-kocsijara-szerelt-lezerblokkolorol.html http://hirszerzo.hu/hirek/2011/9/19/20110919_hm_lezerblokkolo
+Magyar Fesztivál Balett http://www.stop.hu/kultura/nincs-penz-leall-a-magyar-fesztival-balett/1199845/
+Magyar Csapat http://hvg.hu/itthon/20140102_Orban_level
 magánnyugdíjpénztárak államosítása
 Magyar Hírlap
 Magyar Művészeti Akadémia
 Magyar Nemzet
 Magyar Nemzeti Bank
 MAL államosítása
-Mandíner
+Mandíner http://keki.tumblr.com/post/72442709108/iranytunek-szant-lapot-alapi-tanak-orbanek
 Margit-Sziget
-Markó Iván
+Markó Iván http://fidelio.hu/tanc/video/marko_ivan_valasza_a_megzavart_premieren
 Marslakók
 Matolcsy György
 Meggyes Tamás
@@ -100,8 +100,8 @@ Papcsák Ferenc
 Papp Dániel
 patikák államosítása
 pedagógusok nyugdíjazása
-Pető Intézet
-Pozsgay Imre
+Pető Intézet http://nol.hu/belfold/a_peto-botrany_hattere__ingatlanpanama_es_drasztikus_penzelvonas
+Pozsgay Imre http://vastagbor.blog.hu/2013/12/02/elnoki_diszvacsora_pozsgay_imre_80_szuletesnapjara
 Pálffy István
 rezsicsökkentés
 Rogán Antal
@@ -109,7 +109,7 @@ Rogán Antal szomszédai
 Rákay Philip
 Római-part
 Schmitt Pál
-Selmeczi Gabriella
+Selmeczi Gabriella http://hvg.hu/gazdasag/20110808_selmeczi_penztarak_realhozam
 Semjén Zsolt
 Simicska Lajos
 Stabilitás Megtakarítási Számla
@@ -122,7 +122,7 @@ Szíjjártó Péter
 takarékszövetkezetek államosítása
 tankönyvkiadás államosítása
 Tarlós István
-Terrorelhárítási Központ
+Terrorelhárítási Központ http://cink.hu/onvedelembol-vett-puskat-a-72-eves-bacsi-a-tek-rarugta-1466121951 http://index.hu/tech/2012/09/12/luke-ra_futott_a_tek/ http://index.hu/belfold/2012/08/28/mondjal_kevesebbet_akkor_nem_tudnak_belekotni/
 Tisztaszoftver-program
 trafikbotrány
 Trafó
@@ -143,20 +143,20 @@ Zsigó Róbert
 Új Színház
 műemlékvédelem felszámolása
 gyorsnaszád
-Lomnici Zoltán kiretusálása
+Lomnici Zoltán kiretusálása http://www.hir24.hu/belfold/2011/12/06/bunozokent-kezelte-a-kozteve-a-volt-fobirot/
 Nem leszünk gyarmat!
 preambulum
 lengyel importtüntetők
 Székhelyi József kitiltása Egerből
 Nyirő József hamvai
 47 000 forint
-oligarchák
-state capture
+oligarchák http://atlatszo.hu/category/cikkek/oligarchatarozo/
+state capture http://atlatszo.hu/2012/09/24/a-nemzeti-egyuttmukodes-rendszere-kik-ejtettek-foglyul-a-magyar-allamot/
 csekkadó
 telefonadó
-Habony Árpád
+Habony Árpád http://magyarnarancs.hu/belpol/habony-arpad-orban-viktor-bizalmas-elitelve-garazdasag-jogeros-idegbe-jott-83765
 dinnyekartell
-tibeti tüntetők
+tibeti tüntetők http://www.origo.hu/itthon/20110627-vizsgalja-az-ombudsman-a-tibeti-tuntetok-elleni-rendorsegi-fellepest.html
 kötelezettségszegési eljárás
 Polt Péter
 tanyatámogatási programon nyer az V. kerület
@@ -174,3 +174,5 @@ Demokrata
 munkanélküliség
 kivonuló multik
 tranzakciós adó
+egyéni nyugdíjszámlák http://hvg.hu/gazdasag/20101214_magan_nyugdj_egyeni_szamlavezetes
+Magyar Krónika http://cink.hu/tag/magyar-kronika
