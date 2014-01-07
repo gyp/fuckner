@@ -3,11 +3,10 @@
 @import "oocss/_spacing";
 
 body {
-	background-color: #231f20;
+	background-color: #313538;
 	color: #fff;
 	margin: 0 auto;
 	padding: 0;
-	font-size: 14px;
 }
 
 #ribbon {
@@ -35,29 +34,43 @@ h1 {
 
 h1,
 #because {
-	border: 1px solid #F6F3F3;
+	border: 1px solid #545B5F;
 	text-align: center;
 }
 
 #because {
-	line-height: 1.6;
 	span {
-		list-style-type: none;
-		color: #F6F3F3;
+		font-size: 20px;
+		color: #bcc2c7;
+		line-height: 1.7;
+		font-family: "Roboto Slab", Georgia, serif;
+		font-weight: 300;
+
+		@media only screen and (max-width: 767px) {
+			font-size: 14px;
+			line-height: 1.6;
+		}
 
 		&:after {
 			content: " ∙ ";
 		}
 	}
 	a {
-		color: #F6F3F3;
-		border-bottom: 1px dotted #F6F3F3;
+		color: #fff;
+		font-weight: 300;
+		text-rendering: optimizeLegibility;
+
+		&:hover {
+			color: #df6344 !important;
+			transition-property: color, background-image, background-color, border-color, box-shadow, opacity;
+			transition-duration: 0.3s;
+		}
 	}
 }
 
 #missing {
 	text-align: center;
-	font-size: 12px;
+	font-size: 14px;
 	a {
 		color: #F6F3F3;
 		&:hover {
