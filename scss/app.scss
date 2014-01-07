@@ -7,6 +7,7 @@ body {
 	color: #fff;
 	margin: 0 auto;
 	padding: 0;
+	font-size: 14px;
 }
 
 #ribbon {
@@ -19,34 +20,38 @@ body {
 
 h1 {
 	text-align: center;
+	font-size: 86px;
+	@media only screen and (max-width: 767px) {
+		font-size: 56px;
+	}
 	a {
-		color: #fff;
+		color: #F6F3F3;
 		font-weight: bold;
 		&:hover {
-			color: #fff;
+			color: #F6F3F3;
 		}
 	}
 }
 
 h1,
 #because {
-	border: 1px solid #fff;
+	border: 1px solid #F6F3F3;
 	text-align: center;
 }
 
 #because {
+	line-height: 1.6;
 	span {
-		font-size: 11px;
 		list-style-type: none;
-		color: #fff;
+		color: #F6F3F3;
 
 		&:after {
 			content: " ∙ ";
 		}
 	}
 	a {
-		color: #fff;
-		border-bottom: 1px dotted #fff;
+		color: #F6F3F3;
+		border-bottom: 1px dotted #F6F3F3;
 	}
 }
 
@@ -54,9 +59,9 @@ h1,
 	text-align: center;
 	font-size: 12px;
 	a {
-		color: #fff;
+		color: #F6F3F3;
 		&:hover {
-			color: #fff;
+			color: #F6F3F3;
 		}
 	}
 }
@@ -64,6 +69,6 @@ h1,
 
 div.fb-like {
 	position: absolute;
-	top: -15px;
+	top: 15px;
 	right: 10px;
 }
