@@ -11,10 +11,19 @@
 					that.lines = _.filter(text.split('\n'), function (line) {
 						return line.trim() !== '';
 					});
-
+					that.splitUrls();
 					that.sortLines();
 					that.renderLines();
 				}
+			});
+		},
+
+		splitUrls: function() {
+			this.lines = _.map(this.lines, function(line) {
+				return {
+					text: line.replace(/https?:\/\/\S+/g,"").trim(),
+					urls: line.match(/https?:\/\/\S+/g)
+				};
 			});
 		},
 
@@ -37,8 +46,8 @@
 			};
 
 			this.lines = this.lines.sort(function (a, b) {
-				var pa = plainLetters(a.toLowerCase()),
-					pb = plainLetters(b.toLowerCase());
+				var pa = plainLetters(a.text.toLowerCase()),
+					pb = plainLetters(b.text.toLowerCase());
 
 				if (pa > pb) {
 					return 1;
@@ -52,7 +61,11 @@
 
 		renderLines: function () {
 			$('#because').html(_.map(this.lines, function (line) {
-				return $('<span>' + line + '</span>');
+				if (line.urls == null || line.urls.length == 0) {
+					return $('<span>' + line.text + '</span>');
+				} else {
+					return $('<span><a href="'+line.urls[_.random(line.urls.length-1)]+'">' + line.text + '</a></span>');
+				}
 			}));
 		}
 	};
