@@ -53,7 +53,7 @@ h1,
 			line-height: 1.8em;
 		}
 
-		& + &:before {
+		&+span:before {
 			content: " ∙ ";
 		}
 	}
