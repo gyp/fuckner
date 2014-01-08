@@ -61,11 +61,10 @@ h1,
 		color: #fff;
 		font-weight: 300;
 		text-rendering: optimizeLegibility;
+		transition: color 0.3s;
 
 		&:hover {
-			color: #df6344 !important;
-			transition-property: color, background-image, background-color, border-color, box-shadow, opacity;
-			transition-duration: 0.3s;
+			color: #DF6344;
 		}
 	}
 }
