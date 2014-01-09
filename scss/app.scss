@@ -7,6 +7,7 @@ body {
 	color: #FFF;
 	margin: 0 auto;
 	padding: 0;
+	font-family: "Roboto Slab", Georgia, serif;
 }
 
 #ribbon {
@@ -17,8 +18,20 @@ body {
 	}
 }
 
+a {
+	color: #FFF;
+	font-weight: 300;
+	text-rendering: optimizeLegibility;
+	transition: color 0.3s;
+
+	&:hover {
+		color: #DF6344;
+	}
+}
+
 h1 {
 	text-align: center;
+	font-family: "Roboto Slab", Georgia, serif;
 	font-size: 86px;
 	margin-top: 10px;
 	@media only screen and (max-width: 767px) {
@@ -26,11 +39,7 @@ h1 {
 		margin-top: 0;
 	}
 	a {
-		color: #F6F3F3;
 		font-weight: bold;
-		&:hover {
-			color: #F6F3F3;
-		}
 	}
 }
 
@@ -45,7 +54,6 @@ h1,
 		font-size: 20px;
 		color: #BCC2C7;
 		line-height: 1.7em;
-		font-family: "Roboto Slab", Georgia, serif;
 		font-weight: 300;
 
 		@media only screen and (max-width: 767px) {
@@ -57,27 +65,11 @@ h1,
 			content: " ∙ ";
 		}
 	}
-	a {
-		color: #FFF;
-		font-weight: 300;
-		text-rendering: optimizeLegibility;
-		transition: color 0.3s;
-
-		&:hover {
-			color: #DF6344;
-		}
-	}
 }
 
 #missing {
 	text-align: center;
-	font-size: 14px;
-	a {
-		color: #F6F3F3;
-		&:hover {
-			color: #F6F3F3;
-		}
-	}
+	font-size: 16px;
 }
 
 
