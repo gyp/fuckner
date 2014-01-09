@@ -21,9 +21,9 @@ esküvői kátyúzás http://cink.hu/lehet-hogy-orban-maga-katyuzott-az-eskuvo-h
 EU-ellenesség http://velemenyvezer.444.hu/2013/09/02/eu-ellenes-kormany-eu-ellenes-orszag/
 Fekete György http://index.hu/video/2012/11/30/futyulok_erre_a_demokraciara/
 felsőoktatás szétverése
-Fidesz Magyar Polgári Szövetség
+Fidesz Magyar Polgári Szövetség http://fuckner.hu/
 filmalap
-földpályázatok
+földpályázatok http://hvg.hu/cimke/f%C3%B6ldmutyi
 földrajzinév-bizottság http://index.hu/belfold/2011/03/20/a_kormany_megtorolta_hogy_leszavaztak_ferihegy_uj_nevet/
 fülkeforradalom
 G. Fodor Gábor http://444.hu/2013/05/16/g-fodor-13-millios-tanacsai/
@@ -129,7 +129,7 @@ unortodox gazdaságpolitika
 vak komondor
 vasútfelújítások
 visszamenőleges törvényhozás
-választási törvény
+választási törvény http://hazaeshaladas.blog.hu/2011/11/25/tul_a_demokracian_az_uj_orszaggyulesi_valasztasi_rendszer_modellje_2_resz
 Városliget
 végtörlesztés
 Vígszínház
@@ -187,3 +187,9 @@ családon belüli erőszak http://index.hu/belfold/2012/09/11/kiallnak_a_fidesze
 Lex Átlátszó http://atlatszo.hu/2013/06/21/masodjara-alairta-kihirdettek-a-lex-atlatszot/
 fogyatékkal élők jogai http://444.hu/2013/09/20/nem-szep-latvany/
 felcsúti kisvasút http://index.hu/gazdasag/2013/10/03/kiemelt_projekt_lesz_a_felcsuti_kisvasut/
+ózdi vízkorlátozás http://index.hu/belfold/2013/08/04/elzartak_a_vizet_az_ozdi_romatelepen/
+euró árfolyam http://finance.yahoo.com/echarts?s=EURHUF%3DX+Interactive#symbol=;range=20080324,20140109;compare=;indicator=volume;charttype=area;crosshair=on;ohlcvalues=0;logscale=off;source=undefined;
+visszaélésszerű adatigénylés http://index.hu/belfold/2013/04/30/mostantol_konnyebb_lesz_eltitkolni_a_dolgokat/
+német megszállás emlékműve http://www.komment.hu/tartalom/20140108-ungvary-krisztian-publicisztikaja-a-kormany-tortenelemkeperol-holokauszt-masodik-vilaghaboru.html
+
+
