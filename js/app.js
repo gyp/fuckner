@@ -67,7 +67,7 @@
 				} else {
 					if (line.urls.length > 1) {
 						return $('<span><a href="' + line.urls[0] + '">' + line.text + '</a> ' + _.map(_.rest(line.urls), function (url, i) {
-							return '<a href="' + url + '">[ ' + (i + 2) + ' ]</a>';
+							return '<a href="' + url + '">[&nbsp;' + (i + 2) + '&nbsp;]</a>';
 						}).join(' ') + '</span>');
 					} else {
 						return $('<span><a href="' + line.urls[0] + '">' + line.text + '</a></span>');
