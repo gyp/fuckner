@@ -57,7 +57,7 @@ Kék Pont http://www.kekpont.hu/blog/2013-09-18-jozsefvaros-felbontja-egyuttmuko
 Kósa Lajos http://www.hir24.hu/belfold/2014/01/06/kifogott-az-anyatej-kosa-lajoson/
 Költségvetési Tanács
 Közgép http://atlatszo.blog.hu/2014/01/08/kozgepes_kozbeszerzesek_2013-ban_tul_a_400_milliardon
-közmunkaprogram
+közmunkaprogram http://www.delmagyar.hu/szeged_hirek/teli_kozmunkaprogram_havi_netto_49_ezerert_tanulnak_es_dolgoznak/2357191/ http://figyelo.hu/cikkek/kilatastalan-szegenyseg--meg-a-bejelentett-allas-sem-segit http://nol.hu/belfold/20131029-fogva_tartott_szegenyek
 közterület-átnevezések
 köztévé
 különadók
@@ -80,7 +80,7 @@ Markó Iván http://fidelio.hu/tanc/video/marko_ivan_valasza_a_megzavart_premier
 Marslakók http://comment.blog.hu/2012/03/05/tamad_a_mars_11 http://444.hu/2013/09/12/nem-titkolozik-tovabb-az-mtva-a-marslakok-koltsegeirol/
 Matolcsy György http://index.hu/gazdasag/bankesbiztositas/2013/12/21/matolcsy_magahoz_kepest_is_csunyan_bedurvult/ http://www.youtube.com/watch?v=64H5cem8HKs http://index.hu/belfold/2011/11/19/matolcsy_a_siker_lathatatlan/
 Meggyes Tamás
-mobilgát
+mobilgát http://atlatszo.hu/2013/10/18/romai-parti-mobilgat-iszapbirkozas/ http://atlatszo.hu/2013/05/30/katasztrofat-okozhat-a-romai-parti-mobilgat-figyelmeztetesre-sem-lesz-ido/
 MOL http://www.hir24.hu/belfold/2013/10/15/egyutt-hernadi-es-orban-az-interpol-sehol/
 MTI
 Médiaszolgáltatás-támogató és Vagyonkezelő Alap
@@ -102,18 +102,17 @@ pedagógusok nyugdíjazása
 Pető Intézet http://nol.hu/belfold/a_peto-botrany_hattere__ingatlanpanama_es_drasztikus_penzelvonas
 Pozsgay Imre http://vastagbor.blog.hu/2013/12/02/elnoki_diszvacsora_pozsgay_imre_80_szuletesnapjara
 Pálffy István http://index.hu/belfold/2013/11/07/alkoholszagot_ereztek_palffy_istvan_korul/
-rezsicsökkentés
+rezsicsökkentés http://gepnarancs.hu/2013/01/kamu-a-10-szazalekos-rezsicsokkentes/ http://hvg.hu/itthon/20130916_100_forintot_fizet_a_Fidesz_a_rezsicsokke http://levego.hu/hirek/2013/10/mindannyiunknak_sokba_kerulhet_az_ujabb_rezsicsokkentes
 Rogán Antal
 Rogán Antal szomszédai http://atlatszo.blog.hu/2013/06/04/jo_szomszedi_viszony_trafikmutyi_az_5_keruletben http://hvg.hu/itthon/20131220_Rogan_Hamu_Gyemant_advent
 Rákay Philip http://444.hu/2013/09/12/rakay-philip-992-3-millio-ft/ http://comment.blog.hu/2014/01/06/sajat_musort_kapott_az_mtv_vezer
-Római-part
 Schmitt Pál http://hu.wikipedia.org/wiki/Schmitt_P%C3%A1l_pl%C3%A1gium%C3%BCgye
 Selmeczi Gabriella http://hvg.hu/gazdasag/20110808_selmeczi_penztarak_realhozam
 Semjén Zsolt http://kepviselofunky.blog.hu/2013/07/01/most_semjen_mondta_el_lehet_innen_menni_402
 Simicska Lajos http://444.hu/2013/10/10/59-allami-foldterulet-jutott-simicska-lajos-cegeinek/
 Stabilitás Megtakarítási Számla
 stadionépítések http://sportgeza.hu/futball/2013/12/04/21_milliard_megy_el_stadionokra/
-gazdasági szabadságharc
+gazdasági szabadságharc http://index.hu/gazdasag/magyar/2010/09/08/kudarcbol_szabadsagharc/
 szociális és gyeremekvédelmi intézmények államosítása
 Széles Gábor http://444.hu/2013/12/03/szeles-gabor-a-maganvelemenyem-az-hogy-kikapcsolhato-a-gravitacio/
 Szíjjártó Péter
@@ -121,10 +120,10 @@ takarékszövetkezetek államosítása
 tankönyvkiadás államosítása http://hvg.hu/gazdasag/20131216_Egy_teljes_szektort_tarol_le_a_tankonyvki http://444.hu/2013/12/17/miert-kell-surgosen-megszavazni-az-allamositast/
 Tarlós István http://444.hu/2013/11/08/tarlos-20-pontja-netto-vagy-brutto-hulyeseg/
 Terrorelhárítási Központ http://cink.hu/onvedelembol-vett-puskat-a-72-eves-bacsi-a-tek-rarugta-1466121951 http://index.hu/tech/2012/09/12/luke-ra_futott_a_tek/ http://index.hu/belfold/2012/08/28/mondjal_kevesebbet_akkor_nem_tudnak_belekotni/
-Tisztaszoftver-program
+Tisztaszoftver-program http://index.hu/tech/2012/02/24/megis_folytatodik_a_tisztaszoftver-program/
 trafikbotrány http://egyenesen.hu/a-trafikmutyi
 Trafó
-unortodox gazdaságpolitika
+unortodox gazdaságpolitika http://hvg.hu/gazdasag/20130405_Egy_orszag_ahol_megszokott_dolog_az_allam
 vak komondor http://index.hu/belfold/2013/11/04/hajanal_fogva_verte_a_terasznak_elettarsa_fejet/
 vasútfelújítások
 visszamenőleges törvényhozás http://hvg.hu/itthon/20101026_alkotmanyellenes_kulonado
@@ -169,7 +168,7 @@ utalványrendszer államosítása http://index.hu/gazdasag/magyar/2011/11/23/a_s
 Nemzeti Együttműködés Nyilatkozata http://index.hu/belfold/2010/07/02/holnaptol_ki_kell_fuggeszteni_a_kozepuletekben_a_nemzeti_egyuttmukodes_nyilatkozatat/
 Demokrata
 munkanélküliség
-kivonuló multik
+kivonuló multik http://www.hrportal.hu/c/35-en-talaltak-uj-munkat-a-flextronics-elbocsatott-dolgozoi-kozul-20121213.html http://index.hu/gazdasag/magyar/2012/03/22/kivonul_az_orszagbol_egy_vegyipari_ceg/ http://www.origo.hu/gazdasag/20130712-a-barkacspiac-a-harmadik-amelyik-osszeesik-magyarorszagon.html
 egyéni nyugdíjszámlák http://hvg.hu/gazdasag/20101214_magan_nyugdj_egyeni_szamlavezetes
 Magyar Krónika http://cink.hu/tag/magyar-kronika
 feljelentés-cunami http://www.origo.hu/itthon/20110309-hetvennegy-ugyben-fordult-az-ugyeszseghez-a-miskolci-polgarmester.html
