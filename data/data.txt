@@ -191,5 +191,4 @@ felcsúti kisvasút http://index.hu/gazdasag/2013/10/03/kiemelt_projekt_lesz_a_f
 euró árfolyam http://finance.yahoo.com/echarts?s=EURHUF%3DX+Interactive#symbol=;range=20080324,20140109;compare=;indicator=volume;charttype=area;crosshair=on;ohlcvalues=0;logscale=off;source=undefined;
 visszaélésszerű adatigénylés http://index.hu/belfold/2013/04/30/mostantol_konnyebb_lesz_eltitkolni_a_dolgokat/
 német megszállás emlékműve http://www.komment.hu/tartalom/20140108-ungvary-krisztian-publicisztikaja-a-kormany-tortenelemkeperol-holokauszt-masodik-vilaghaboru.html
-
-
+iskolák államosítása http://444.hu/2014/01/10/az-oktatas-kozpontositasanak-legvidamabb-pillanatai-280-dolog-amit-csak-a-bortonokbol-rendelhetnek-meg-az-iskolak/ http://444.hu/2013/09/24/csak-annak-nem-segithet-a-logopedus-akinek-igazan-szuksege-lenne-ra/ http://444.hu/2013/09/27/iskolapszichologus-mar-nincs-a-sulirendor-irodat-kapott/
