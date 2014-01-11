@@ -57,10 +57,10 @@ Kék Pont http://www.kekpont.hu/blog/2013-09-18-jozsefvaros-felbontja-egyuttmuko
 Kósa Lajos http://www.hir24.hu/belfold/2014/01/06/kifogott-az-anyatej-kosa-lajoson/
 Költségvetési Tanács
 Közgép http://atlatszo.blog.hu/2014/01/08/kozgepes_kozbeszerzesek_2013-ban_tul_a_400_milliardon
-közmunkaprogram http://www.delmagyar.hu/szeged_hirek/teli_kozmunkaprogram_havi_netto_49_ezerert_tanulnak_es_dolgoznak/2357191/ http://figyelo.hu/cikkek/kilatastalan-szegenyseg--meg-a-bejelentett-allas-sem-segit http://nol.hu/belfold/20131029-fogva_tartott_szegenyek
+közmunkaprogram http://www.delmagyar.hu/szeged_hirek/teli_kozmunkaprogram_havi_netto_49_ezerert_tanulnak_es_dolgoznak/2357191/ http://figyelo.hu/cikkek/kilatastalan-szegenyseg--meg-a-bejelentett-allas-sem-segit http://nol.hu/belfold/20131029-fogva_tartott_szegenyek http://nol.hu/lap/forum/20120928-farkaskolykok_az_epitotaborban
 közterület-átnevezések
 köztévé
-különadók
+különadók http://index.hu/gazdasag/2013/08/15/tovabbviszi_a_kormany_a_98_-os_ado_ugyet/
 labdarúgás http://www.nemzetisport.hu/magyar_valogatott/hollandia-magyarorszag-2286947
 letelepedési kötvény http://nol.hu/gazdasag/20130905-masfel_tucat_kotvenymagyar
 londoni magyarok http://velemenyvezer.blog.hu/2013/01/29/matolcsy_elszolta_magat_felmillioan_dolgoznak_kulfoldon
@@ -93,7 +93,7 @@ Nyerges Attila http://www.origo.hu/itthon/20120116-nyerges-zsolt-testvere-nyerge
 Nyerges Zsolt http://444.hu/2013/05/15/nyerges-zsolt-a-szereny-elnok/
 Németh Lászlóné http://index.hu/gazdasag/magyar/2011/12/21/dilpoma_nelkul_lehet_miniszter_nemet_laszlone/
 Obersovszky Péter http://index.hu/belfold/2012/03/30/a_riporter_schmitt_pallal_volt/
-Orbán Viktor http://www.youtube.com/watch?v=FgScDXYoQLE
+Orbán Viktor http://www.youtube.com/watch?v=FgScDXYoQLE http://index.hu/belfold/2012/06/25/nem_botokat_vagatna_a_jobbik_a_kozmunkasokkal/
 OSZK kirúgások http://mandiner.hu/cikk/20111121_azonnali_leepites_a_muvelodesi_intezeteknel
 Papcsák Ferenc http://magyarnarancs.hu/belpol/papcsak_es_a_zugloi_kozpenzek_-_az_elszamoltato_elszamolasa-75991 http://index.hu/belfold/2013/09/26/papcsak/
 Papp Dániel
@@ -116,7 +116,7 @@ gazdasági szabadságharc http://index.hu/gazdasag/magyar/2010/09/08/kudarcbol_s
 szociális és gyeremekvédelmi intézmények államosítása
 Széles Gábor http://444.hu/2013/12/03/szeles-gabor-a-maganvelemenyem-az-hogy-kikapcsolhato-a-gravitacio/
 Szíjjártó Péter
-takarékszövetkezetek államosítása
+takarékszövetkezetek államosítása http://www.uzletresz.hu/vallalkozas/20131118-turbofokozatban-a-takarekszovetkezetek-allamositasa.html
 tankönyvkiadás államosítása http://hvg.hu/gazdasag/20131216_Egy_teljes_szektort_tarol_le_a_tankonyvki http://444.hu/2013/12/17/miert-kell-surgosen-megszavazni-az-allamositast/
 Tarlós István http://444.hu/2013/11/08/tarlos-20-pontja-netto-vagy-brutto-hulyeseg/
 Terrorelhárítási Központ http://cink.hu/onvedelembol-vett-puskat-a-72-eves-bacsi-a-tek-rarugta-1466121951 http://index.hu/tech/2012/09/12/luke-ra_futott_a_tek/ http://index.hu/belfold/2012/08/28/mondjal_kevesebbet_akkor_nem_tudnak_belekotni/
@@ -164,7 +164,7 @@ kinevezések 9 évre
 kötelező kamarai hozzájárulás http://index.hu/gazdasag/2013/03/25/meg_nem_fizetett_kamarai_dijat_duplajat_szedi_be_a_hatosag/ http://miszk.hu/hir/kotelezo-regisztracio-onkentes-tagsag.html
 Pintér Sándor http://www.origo.hu/itthon/20130705-pinter-sandor-volt-cege-civil-biztonsagi-szolgalat-2013-as-kozbeszerzesei.html http://index.hu/belfold/2010/07/22/pinter_sandor_volt_cegei_allami_intezmenyeket_vedenek/
 Normafa http://index.hu/belfold/budapest/2013/10/27/sipalya-sivatag_normafa/
-utalványrendszer államosítása http://index.hu/gazdasag/magyar/2011/11/23/a_sodexot_is_meglepte_az_erzsebet/
+utalványrendszer államosítása http://index.hu/gazdasag/magyar/2011/11/23/a_sodexot_is_meglepte_az_erzsebet/ http://index.hu/gazdasag/2014/01/09/igy_nullazta_le_az_erzsebet_a_francia_ceget
 Nemzeti Együttműködés Nyilatkozata http://index.hu/belfold/2010/07/02/holnaptol_ki_kell_fuggeszteni_a_kozepuletekben_a_nemzeti_egyuttmukodes_nyilatkozatat/
 Demokrata
 munkanélküliség
@@ -201,3 +201,5 @@ Illés Zoltán http://index.hu/belfold/2013/09/10/illes_attol_hogy_on_szep_abbol
 Baldauf László http://index.hu/belfold/2013/11/12/kormanyparti_tuntetesre_kapacitalta_dolgozoit_a_cba/
 Tolnai Jánosné http://444.hu/2013/12/11/lemondott-a-zoldhatosag-foigazgatoja/
 iskolák államosítása http://444.hu/2014/01/10/az-oktatas-kozpontositasanak-legvidamabb-pillanatai-280-dolog-amit-csak-a-bortonokbol-rendelhetnek-meg-az-iskolak/ http://444.hu/2013/09/24/csak-annak-nem-segithet-a-logopedus-akinek-igazan-szuksege-lenne-ra/ http://444.hu/2013/09/27/iskolapszichologus-mar-nincs-a-sulirendor-irodat-kapott/
+hulladékgazdálkodás államosítása http://index.hu/gazdasag/2013/05/13/szelektiv/
+ócsai lakópark http://index.hu/gazdasag/2013/08/07/a_devizahitelesek_messze_elkerulik_ocsat/ http://index.hu/belfold/2013/02/21/lazitjak_a_felteteleket_az_ocsai_lakoparkba/
