@@ -33,26 +33,29 @@
 
 		sortLines: function () {
 			var plainLetters = function (s) {
-				var from = 'áéíóöőúüű',
-					to = 'aeioouuu';
+					var from = 'áéíóöőúüű',
+						to = 'aeioouuu';
 
-				return _.map(s, function (letter, i) {
-					var t = from.indexOf(s.charAt(i));
-					if (t === -1) {
-						return s.charAt(i);
-					} else {
-						return to.charAt(t) + 'x';
-					}
-				}).join('');
-			};
+					s = s.replace(/<(?:.|\n)*?>/gm, '').toLowerCase();
+					return _.map(s, function (letter, i) {
+						var t = from.indexOf(s.charAt(i));
+						if (t === -1) {
+							return s.charAt(i);
+						} else {
+							return to.charAt(t) + 'x';
+						}
+					}).join('');
+				},
+				plainLines = {};
+
+			_.each(this.lines, function (line) {
+				plainLines[line.text] = plainLetters(line.text);
+			});
 
 			this.lines = this.lines.sort(function (a, b) {
-				var pa = plainLetters(a.text.toLowerCase()),
-					pb = plainLetters(b.text.toLowerCase());
-
-				if (pa > pb) {
+				if (plainLines[a.text] > plainLines[b.text]) {
 					return 1;
-				} else if (pa < pb) {
+				} else if (plainLines[a.text] < plainLines[b.text]) {
 					return -1;
 				} else {
 					return 0;
