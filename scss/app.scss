@@ -67,9 +67,14 @@ h1,
 	}
 }
 
-#missing {
+footer {
 	text-align: center;
 	font-size: 16px;
+	a {
+		&+a:before {
+			content: " ∙ ";
+		}
+	}
 }
 
 
