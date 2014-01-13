@@ -70,8 +70,8 @@ h1,
 footer {
 	text-align: center;
 	font-size: 16px;
-	a {
-		&+a:before {
+	span {
+		&+span:before {
 			content: " ∙ ";
 		}
 	}

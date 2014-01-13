@@ -64,10 +64,15 @@
 		},
 
 		renderLines: function () {
+			var tags = 0,
+				urls = 0;
+
 			$('#because').html(_.map(this.lines, function (line) {
+				tags++;
 				if (line.urls === null || line.urls.length === 0) {
 					return $('<span>' + line.text + '</span>');
 				} else {
+					urls += line.urls.length;
 					if (line.urls.length > 1) {
 						return $('<span><a href="' + line.urls[0] + '">' + line.text + '</a> ' + _.map(_.rest(line.urls), function (url, i) {
 							return '<a href="' + url + '">[&nbsp;' + (i + 2) + '&nbsp;]</a>';
@@ -77,6 +82,9 @@
 					}
 				}
 			}));
+
+			$('#tags').html(tags + ' téma');
+			$('#urls').html(urls + ' URL');
 		}
 	};
 
